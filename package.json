@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "@tailwindcss/cli": "^4.1.11",
+        "tailwindcss": "^4.1.11"
+    },
+    "scripts": {
+        "prettier": "npx prettier --write ./build/*.html"
+    },
+    "devDependencies": {
+        "prettier-plugin-tailwindcss": "^0.6.14"
+    }
+}
